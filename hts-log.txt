@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 26 Dec 2019 18:40:52 at https://www.rocketleague.com/game-info/rocketpass/rocket-pass-5/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://www.rocketleague.com/game-info/rocketpass/rocket-pass-5/ -O1 "C:\Users\33769\Downloads\Site\site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:41:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.rocketleague.com/game-info/rocketpass/rocket-pass-5/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 55 links scanned, 52 files written (8525110 bytes overall) [7667388 bytes received at 365113 bytes/sec], 1142718 bytes transferred using HTTP compression in 14 files, ratio 22%, 3.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
